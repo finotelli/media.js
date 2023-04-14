@@ -1,0 +1,21 @@
+body{
+margin: 100px 500px 300px 400px;
+background-image: url(estudo.jpg);
+background-attachment: fixed;
+background-size: cover;
+background-position: center;
+}
+
+h1{
+font-size: 50px;
+color: rgb(11, 39, 3); text-shadow: rgb(224, 255, 242) 0.1em 0.1em 0.2em;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;  
+}
+
+p{
+font-size: 30px;
+color: rgb(11, 39, 3); text-shadow: rgb(224, 255, 242) 0.1em 0.1em 0.2em;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;  
+}
